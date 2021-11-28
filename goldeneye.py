@@ -48,7 +48,7 @@ HTTPCLIENT = http.client
 ####
 # Config
 ####
-DEBUG = False
+DEBUG = True
 SSLVERIFY = True
 
 ####
